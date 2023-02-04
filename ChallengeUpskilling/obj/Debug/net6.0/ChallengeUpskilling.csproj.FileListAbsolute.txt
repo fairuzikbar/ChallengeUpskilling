@@ -1,0 +1,15 @@
+/home/dell/Enigma Camp/C# dotNET/ChallengeUpskilling/ChallengeUpskilling/bin/Debug/net6.0/ChallengeUpskilling
+/home/dell/Enigma Camp/C# dotNET/ChallengeUpskilling/ChallengeUpskilling/bin/Debug/net6.0/ChallengeUpskilling.deps.json
+/home/dell/Enigma Camp/C# dotNET/ChallengeUpskilling/ChallengeUpskilling/bin/Debug/net6.0/ChallengeUpskilling.runtimeconfig.json
+/home/dell/Enigma Camp/C# dotNET/ChallengeUpskilling/ChallengeUpskilling/bin/Debug/net6.0/ChallengeUpskilling.dll
+/home/dell/Enigma Camp/C# dotNET/ChallengeUpskilling/ChallengeUpskilling/bin/Debug/net6.0/ChallengeUpskilling.pdb
+/home/dell/Enigma Camp/C# dotNET/ChallengeUpskilling/ChallengeUpskilling/obj/Debug/net6.0/ChallengeUpskilling.csproj.AssemblyReference.cache
+/home/dell/Enigma Camp/C# dotNET/ChallengeUpskilling/ChallengeUpskilling/obj/Debug/net6.0/ChallengeUpskilling.GeneratedMSBuildEditorConfig.editorconfig
+/home/dell/Enigma Camp/C# dotNET/ChallengeUpskilling/ChallengeUpskilling/obj/Debug/net6.0/ChallengeUpskilling.AssemblyInfoInputs.cache
+/home/dell/Enigma Camp/C# dotNET/ChallengeUpskilling/ChallengeUpskilling/obj/Debug/net6.0/ChallengeUpskilling.AssemblyInfo.cs
+/home/dell/Enigma Camp/C# dotNET/ChallengeUpskilling/ChallengeUpskilling/obj/Debug/net6.0/ChallengeUpskilling.csproj.CoreCompileInputs.cache
+/home/dell/Enigma Camp/C# dotNET/ChallengeUpskilling/ChallengeUpskilling/obj/Debug/net6.0/ChallengeUpskilling.dll
+/home/dell/Enigma Camp/C# dotNET/ChallengeUpskilling/ChallengeUpskilling/obj/Debug/net6.0/refint/ChallengeUpskilling.dll
+/home/dell/Enigma Camp/C# dotNET/ChallengeUpskilling/ChallengeUpskilling/obj/Debug/net6.0/ChallengeUpskilling.pdb
+/home/dell/Enigma Camp/C# dotNET/ChallengeUpskilling/ChallengeUpskilling/obj/Debug/net6.0/ChallengeUpskilling.genruntimeconfig.cache
+/home/dell/Enigma Camp/C# dotNET/ChallengeUpskilling/ChallengeUpskilling/obj/Debug/net6.0/ref/ChallengeUpskilling.dll

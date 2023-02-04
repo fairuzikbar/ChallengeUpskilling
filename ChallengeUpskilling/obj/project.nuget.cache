@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "B6SQblkqt6D+rfdPPIWE/BW9Z9R4jfqeNTMRx0vYICHoQ21u3RiDDj/8SUFZH2u7YsUaAU3dNLbs2nbYsKWSPQ==",
+  "success": true,
+  "projectFilePath": "/home/dell/Enigma Camp/C# dotNET/ChallengeUpskilling/ChallengeUpskilling/ChallengeUpskilling.csproj",
+  "expectedPackageFiles": [
+    "/home/dell/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.8/microsoft.aspnetcore.app.ref.6.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
